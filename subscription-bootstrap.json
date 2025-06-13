@@ -1,6 +1,10 @@
 {
-  "SUB_ID": "1234567890-1234567890-1234567890-1234567890",
-  "SUB_NAME": "Test Subscription 3 ",
-  "SUB_ABBR": "ts3",
-  "SP_ID": "9876543210-9876543210-9876543210-9876543218"
+  "subscription_id": "1234567890-1234567890-1234567890-12345678921",
+  "subscription_name": "Test Subscription 3 ",
+  "subscription_abbreviation": "ts3",
+  "service_principal_id": "9876543210-9876543210-9876543210-9876543210",
+  "primary_network_cidr": "10.0.0.0/16",
+  "secondary_network_cidr": "10.1.0.0/16",
+  "primary_network_general_purpose_subnet_cidr": "10.0.0.0/24",
+  "secondary_network_general_purpose_subnet_cidr": "10.1.0.0/24"
 }
